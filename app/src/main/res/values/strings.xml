@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <array name="accounts">
+        <item>Admin</item>
+        <item>Member</item>
+        <item>Developer</item>
+    </array>
+    <array name="schools">
+        <item>Engineering</item>
+        <item>Education</item>
+        <item>Science</item>
+        <item>Arts</item>
+        <item>Business</item>
+        <item>Business</item>
+        <item>Law</item>
+        <item>Law</item>
+        <item>Medicine</item>
+        <item>Aerospace</item>
+        <item>Community</item>
+    </array>
+    <array name="years">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Community</item>
+    </array>
+    <array name="departments">
+        <item>Media</item>
+        <item>Keyboardist</item>
+        <item>Worshipper</item>
+        <item>Usher</item>
+        <item>Technician</item>
+        <item>Intercessor</item>
+        <item>Security</item>
+        <item>Protocol</item>
+        <item>Sanitation</item>
+        <item>Violinist</item>
+        <item>Pastor</item>
+        <item>Bishop</item>
+        <item>None</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
